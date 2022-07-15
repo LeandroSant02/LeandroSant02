@@ -21,19 +21,16 @@
       <h3>Linguagens de programação:</h3>
       <img " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     </th>
-  
     <th>
       <h3>Frameworks & Bibliotecas:</h3>
       <img height='60' src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
       <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
     </th>
-    
     <th>
       <h3>Ferramentas:</h3>
       <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
       <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     </th>
-  
   </tr>
 </table>
 </div>
