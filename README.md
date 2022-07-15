@@ -1,7 +1,7 @@
 ### Olá, Sou o Leandro Sant'Anna 👋
 
-- 🔭 Hoje trabalho com Engenheiro de dados
-- 🌱 Estudando tudo o que for possivel para ser melhor em minha área :D
+- 🔭 Hoje trabalho como Engenheiro de dados
+- 🌱 Estudando tudo o que for possivel para ser melhor em minha área 
 
 <div align="center">
   <a href="https://github.com/LeandroSant02">
@@ -39,3 +39,6 @@
   <a href = "mailto:leandro.sant02@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandrosantanna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
