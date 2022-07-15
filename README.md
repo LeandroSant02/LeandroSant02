@@ -14,7 +14,7 @@
 </div>
   
   
-  <div align="center">
+<div align="center">
 <table style="max-width:100%" border="0" cellspacing="0">
   <tr>
     <th>
@@ -22,13 +22,13 @@
       <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     </th>
     <th>
-      <h3>Frameworks and Libraries:</h3>
+      <h3>Frameworks & Bibliotecas:</h3>
       <img height='60' src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
       <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
     </th>
     
     <th>
-      <h3>Tools:</h3>
+      <h3>Ferramentas:</h3>
       <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
       <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     </th>
@@ -40,6 +40,6 @@
 
   <div> 
   <h3>Contact info:</h3>
-  <a href = "mailto:leandro.sant02@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leandro.sant02@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandrosantanna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
