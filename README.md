@@ -19,7 +19,7 @@
   <tr>
     <th>
       <h3>Linguagens de programação:</h3>
-      <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+      <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     </th>
     <th>
       <h3>Frameworks and Libraries:</h3>
