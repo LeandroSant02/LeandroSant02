@@ -12,7 +12,7 @@
   
   
 <div align="center">
-<table style="max-width:100%" border="50" cellspacing="50">
+<table style="max-width:100%" border="20" cellspacing="20">
   <tr>
     <th>
       <h3>Linguagens de programação:</h3>
